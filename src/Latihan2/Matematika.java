@@ -9,7 +9,7 @@ package Latihan2;
  *
  * @author hp
  */
-public class Matematika {
+public class Matematika implements MatematikaAntarmuka {
     
     
     int hasil;
